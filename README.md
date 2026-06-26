@@ -49,4 +49,4 @@ This project is an interactive Power BI dashboard designed to analyze e-commerce
 ## Project Outcome
 The dashboard enables users to monitor sales performance, identify top-selling products, analyze customer behavior, and make data-driven business decisions.
 
-## Screenshot : 
+## Screenshot : https://github.com/pooja-212/E-Commerce-PowerBI-Report-/blob/main/E-C%20Dashboard.jpg
